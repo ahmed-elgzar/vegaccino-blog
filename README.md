@@ -1,2 +1,2 @@
 # vegaccino-blog
-web site blog about veganism built html , css , bootstrap , JQuery , php , mysql
+web site blog about veganism built using html , css , bootstrap , JQuery , php , mysql
