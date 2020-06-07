@@ -1,0 +1,14 @@
+* {
+	font-family: 'Cairo' , sans-serif;
+}
+:root {
+	--first-color: #02614c;
+	--second-color: #afe4d8;
+}
+a,a:hover{
+	text-decoration: none;
+}
+body {
+	background-color: #f3f3f3;
+	font-family: 'Cairo' , sans-serif;
+}
